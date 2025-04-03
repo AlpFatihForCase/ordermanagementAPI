@@ -1,0 +1,6 @@
+﻿services:
+  orderlistfetcher:
+    image: orderlistfetcher
+    build:
+      context: .
+      dockerfile: OrderListFetcher/Dockerfile
