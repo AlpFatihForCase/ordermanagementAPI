@@ -1,0 +1,6 @@
+﻿services:
+  alpordermanagementapi:
+    image: alpordermanagementapi
+    build:
+      context: .
+      dockerfile: alpOrderManagementAPI/Dockerfile

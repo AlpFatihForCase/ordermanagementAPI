@@ -1,1 +1,1 @@
-# ordermanagementAPI
+Bu proje soruda da belirtildiği gibi sadece endpoint kısımlarını içerir. DB ye bağlantısı yoktur ve basit bellek içi bir simülasyon içerir. Talep edildiği halde db bağlantısı yapabilir hatta istenirse dockerize edip de postman env i oluşturulup bir arada da payalaşabilirim. Mail i son gün gördüğüm için bu kısımları yapamadım(istenmemişti zaten) ama istenirse rahatlıkla ve hızla bu kısımları da yapabilir ve herhangi bir ortama deploy edebilirim. 
